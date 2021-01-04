@@ -1,7 +1,7 @@
 # Neural-Networks-From-Scratch
 
-This is an implementation of feed-forward neural networks using only numpy (and matplotlib to plot from main) <br>
-This implementation uses backpropagation and gradient descent to train. <br>
+This is an implementation of feed-forward neural networks using only numpy (and matplotlib to plot from main). <br>
+These networks use backpropagation and gradient descent to train. <br>
 The math is too long for a readme, so here are some links: <br>
 https://en.wikipedia.org/wiki/Backpropagation <br>
 https://en.wikipedia.org/wiki/Gradient_descent <br><br>
@@ -33,6 +33,6 @@ Alternatively, every once in a while, it can get stuck in local optima and just 
 Remember, this is all with an architecture of (2,4,1), these networks are capable of insanely complex hypothesis. Starting from the bottom and visualizing two inputs into a logic gate is a great way of showing how networks generate complexity. <br>
 
 # To Run
-. Have a working python environment with recent versions of numpy and matplotlib
-. Download this repo and navigate to it in terminal
-. Run "python main.py"
+* Have a working python environment with recent versions of numpy and matplotlib
+* Download this repo and navigate to it in terminal
+* Run "python main.py"
